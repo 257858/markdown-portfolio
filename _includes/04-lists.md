@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* hearts
+  1. 💙
+  2. 🖤
+  3. 🤎
+* trees
+  1. 🎄
+  2. 🌳
+  3. 🌲
